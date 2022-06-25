@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SilasEmma
-- 👀 I’m interested in Data Analyst
+- 👀 I’m interested in Data Analyst & Machine Learning Engineer.
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Team of Machine Learning Engineers 
 - 📫 How to reach me emmanuelnonso068@gmail.com
